@@ -1,5 +1,2 @@
-build/
-
-logs/
-
-
+.DS_Store
+secret.txt
